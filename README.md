@@ -1,5 +1,4 @@
 # In-Out-Register
-Innovaccer SDE Internship Assignment
 # Quick Start
 ## Install dependencies
 npm install for both frontend and backend
