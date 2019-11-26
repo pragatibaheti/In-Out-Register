@@ -1,0 +1,34 @@
+{
+  "development": {
+    "username": "root",
+    "password": "game",
+    "database": "boozingo",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "secret": "Lalalalala"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "key":{
+    "secret": "lalalala12"
+  },
+  "facebook":{
+    "clientId" :"" ,
+    "clientSecret" :"",
+    "callbackUrl" : "",
+    "abc":"huhu"
+
+  }
+}
